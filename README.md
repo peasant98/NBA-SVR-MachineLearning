@@ -1,5 +1,5 @@
 # NBA-SVR-MachineLearning
-The second part of my NBA API testing with SVM in python.
+The second part of my NBA API testing with SVM in Python (this time, it's Support Vector Regression).
 
 The goal of this project was to calculate the records of every team in the NBA since 2011 (except for 2012, because the data was empty there).
 A user can put in the conference, the division, and if they want the team to make the playoffs/win their division/win the conference. From here,
